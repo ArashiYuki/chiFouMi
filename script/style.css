@@ -1,0 +1,29 @@
+body {
+  padding: 30px;
+}
+
+.bloc {
+  background-color: #ececec;
+  padding: 20px;
+}
+
+#game {
+  height: 280px;
+}
+
+#pierre {
+  box-shadow: 6px 8px 0px black;
+}
+
+#feuille {
+  box-shadow: 6px 8px 0px red;
+}
+
+#ciseaux {
+  box-shadow: 6px 8px 0px green;
+}
+
+#affichageScoreOrdi {
+  position : absolute;
+  left: 75%;
+}
